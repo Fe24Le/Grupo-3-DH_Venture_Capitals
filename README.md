@@ -16,15 +16,15 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Paginas**
 
--* Home*
+*● Home*
 
 *● Detalle de producto*
 
--* Carrito de compras*
+*● Carrito de compras*
 
--* Formulario de registro*
+*● Formulario de registro*
 
--* Formulario de login*
+*● Formulario de login*
 
 
 ### *DH_Integrantes* 
