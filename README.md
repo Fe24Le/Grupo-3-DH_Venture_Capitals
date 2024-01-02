@@ -1,6 +1,4 @@
-# **# Sprint-1_Grupo-3
-Proyecto Integrador: Sprint 1 - Introducción y wireframing
-**
+#**Grupo-3-DH_Venture_Capitals**
 
 Nuestro sitio brinda informacion sobre los juegos mejor vendidos actualmente ,informacion relevante sobre creadores,precios y formas de pago,pueden encontrar la informacion detallada segun el perfil de juego solicitado .
 
@@ -11,7 +9,7 @@ _Nuestro cliente DH Venture Capitals ha solicitado el desarrollo de un e-commerc
 y que presentemos un boceto gráfico de las principales secciones a implementar, antes de comenzar con el proceso de desarrollo._
 
 
-**Etapas:**
+##**Etapas:**
 
 *Boceto
 
@@ -27,7 +25,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 2_imagenes descriptivas
 
-**DH_Integrantes** 
+###**DH_Integrantes** 
 
 *Maximo Conde* 
 
