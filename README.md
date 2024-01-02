@@ -23,7 +23,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 -* Formulario de login*
 
 
-### **DH_Integrantes** 
+### *DH_Integrantes* 
 
 -*Maximo Conde* 
 
