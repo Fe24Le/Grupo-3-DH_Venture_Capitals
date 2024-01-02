@@ -1,4 +1,4 @@
-#**Grupo-3-DH_Venture_Capitals**
+# **Grupo-3-DH_Venture_Capitals**
 
 Nuestro sitio brinda informacion sobre los juegos mejor vendidos actualmente ,informacion relevante sobre creadores,precios y formas de pago,pueden encontrar la informacion detallada segun el perfil de juego solicitado .
 
@@ -9,7 +9,7 @@ _Nuestro cliente DH Venture Capitals ha solicitado el desarrollo de un e-commerc
 y que presentemos un boceto gráfico de las principales secciones a implementar, antes de comenzar con el proceso de desarrollo._
 
 
-##**Etapas:**
+## **Etapas:**
 
 *Boceto
 
@@ -19,21 +19,16 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 2_imagenes descriptivas
 
-## **Paginas**
 
-1_imagenes descriptivas
+### **DH_Integrantes** 
 
-2_imagenes descriptivas
+-*Maximo Conde* 
 
-###**DH_Integrantes** 
+-*Hector Fernando Calisaya* 
 
-*Maximo Conde* 
+-*Mariano Isidro burgos* 
 
-*Hector Fernando Calisaya* 
+-*Claudio Ivan Angel Quipildor*
 
-*Mariano Isidro burgos* 
-
-*Claudio Ivan Angel Quipildor*
-
-*CAmila Maidana Rojas*
+-*CAmila Maidana Rojas*
 
