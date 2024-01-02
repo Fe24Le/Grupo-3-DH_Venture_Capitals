@@ -5,19 +5,22 @@ Nuestro sitio brinda informacion sobre los juegos mejor vendidos actualmente ,in
   Esta creada para jugadores o editores, que busquen calidad y variedad en los juegos disponibles y su informacion
 
 💻 
-_Nuestro cliente DH Venture Capitals ha solicitado el desarrollo de un e-commercepara poner a prueba el desempeño de nuestro equipo al trabajar con Node.js y React.El cliente solicita que elijamos la temática del sitio
+**Tarea
+_Nuestro cliente DH Venture Capitals ha solicitado el desarrollo de un e-commerce para poner a prueba el desempeño de nuestro equipo al trabajar con Node.js y React.El cliente solicita que elijamos la temática del sitio
 y que presentemos un boceto gráfico de las principales secciones a implementar, antes de comenzar con el proceso de desarrollo._
 
 
 ## **Etapas:**
 
-*Boceto
+-*Boceto
 
 ## **Paginas**
 
-1_imagenes descriptivas
-
-2_imagenes descriptivas
+● Home
+● Detalle de producto
+● Carrito de compras
+● Formulario de registro
+● Formulario de login
 
 
 ### **DH_Integrantes** 
