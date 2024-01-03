@@ -26,6 +26,19 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Formulario de login*
 
+## **Paginas Similares**
+
+*● https://www.g2a.com/es/
+
+*● https://www.riotgames.com/es00
+
+*● https://store.steampowered.com/
+
+*● https://nextgames.com.ar/
+
+*● https://www.eneba.com/latam/
+
+
 
 ### *DH_Integrantes* 
 
