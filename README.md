@@ -1,4 +1,9 @@
+
+
 # **Grupo-3-DH_Venture_Capitals**
+
+![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
+
 
 Nuestro sitio brinda informacion sobre los juegos mejor vendidos actualmente ,informacion relevante sobre creadores,precios y formas de pago,pueden encontrar la informacion detallada segun el perfil de juego solicitado .
 
@@ -38,7 +43,9 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● https://www.eneba.com/latam/
 
+*● https://store.epicgames.com/es-ES/
 
+*● https://www.ubisoft.com/es-es/
 
 ### *DH_Integrantes* 
 
@@ -50,5 +57,4 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Claudio Ivan Angel Quipildor*
 
--*CAmila Maidana Rojas*
 
