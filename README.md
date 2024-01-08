@@ -49,12 +49,12 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ### *DH_Integrantes* 
 
--*Maximo Conde* 
+-Maximo Conde
 
--*Hector Fernando Calisaya* 
+-Hector Fernando Calisaya git: Fe24Le
 
--*Mariano Isidro burgos* 
+-Mariano Isidro burgos git: Sir-Ryu
 
--*Claudio Ivan Angel Quipildor*
+-Claudio Ivan Angel Quipildor git: Quipildor-Claudio
 
 
