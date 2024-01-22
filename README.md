@@ -1,3 +1,4 @@
+
 # **Grupo-3-DH_Venture_Capitals**
 
 ![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
@@ -15,9 +16,9 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto*
+-*Boceto
+-*Este enlace lleva a la pagina home Deploy beta: [HitGames](https://fe24le.github.io/DH_SPR2)
 
--*Proyecto maquetizacion , y desarrollo beta*
 
 ## **Paginas**
 
@@ -30,22 +31,6 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 *● Formulario de registro*
 
 *● Formulario de login*
-
-## **Paginas Similares**
-
-*● https://www.g2a.com/es/
-
-*● https://www.riotgames.com/es00
-
-*● https://store.steampowered.com/
-
-*● https://nextgames.com.ar/
-
-*● https://www.eneba.com/latam/
-
-*● https://store.epicgames.com/es-ES/
-
-*● https://www.ubisoft.com/es-es/
 
 ## **Flujo de trabajo**
 
