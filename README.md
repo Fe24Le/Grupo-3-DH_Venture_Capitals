@@ -1,5 +1,3 @@
-
-
 # **Grupo-3-DH_Venture_Capitals**
 
 ![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
@@ -17,11 +15,13 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto
+-*Boceto*
+
+-*Proyecto maquetizacion , y desarrollo beta*
 
 ## **Paginas**
 
-*● Home*
+*● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
 
 *● Detalle de producto*
 
@@ -46,6 +46,12 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 *● https://store.epicgames.com/es-ES/
 
 *● https://www.ubisoft.com/es-es/
+
+## **Flujo de trabajo**
+
+ [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
+
+
 
 ### *DH_Integrantes* 
 
