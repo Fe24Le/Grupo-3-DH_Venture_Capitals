@@ -21,7 +21,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Paginas**
 
-*● Home*
+*● Home:* [HitGames/home](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/)
 
 *● Detalle de producto*
 
