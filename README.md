@@ -31,6 +31,8 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Formulario de login:*[HitGames/login](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/login.html)
 
+**EN RENDER** :[HitGames](https://hitgames.onrender.com/)
+
 ## **Paginas Similares**
 
 *● https://www.g2a.com/es/
