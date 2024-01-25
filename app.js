@@ -6,18 +6,16 @@ const app = express()
 const publicPath = path.resolve(__dirname, "./public");
 app.use(express.static(publicPath))
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
-app.listen(port, () => {
-    console.log("Corriendo puerto " + port)
-});
+app.listen(port, () => console.log(`Corriendo puerto ${port}`));
 
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "./views/index.html"))
 })
 
 app.get("/register", (req, res) => {
-    res.sendFile(path.join(__dirname, "./views/register.html"))
+    res.sendFile(path.join(__dirname, "./views/registro.html"))
 })
 
 app.get("/login", (req, res) => {
