@@ -23,13 +23,13 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Home:* [HitGames/home](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/)
 
-*● Detalle de producto*
+*● Detalle de producto:*[](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/productDetail.html)
 
-*● Carrito de compras*
+*● Carrito de compras:*  [HitGames/productCar](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/views/productCart.html)
 
-*● Formulario de registro*
+*● Formulario de registro*[HitGames/registro](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/registro.html)
 
-*● Formulario de login*
+*● Formulario de login:*[HitGames/login](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/login.html)
 
 ## **Paginas Similares**
 
