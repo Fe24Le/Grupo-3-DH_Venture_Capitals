@@ -1,33 +1,26 @@
-$(document).ready(function(){
-  $("a").on('click', function(event) {
-    if (this.hash !== "") {
-      event.preventDefault();
-      var hash = this.hash;
-      $('body,html').animate({
-      scrollTop: $(hash).offset().top
-      }, 1200, function(){
-      window.location.hash = hash;
-     });
-     } 
-    });
+const express = require("express")
+const path = require("path")
+
+const app = express()
+
+const publicPath = path.resolve(__dirname, "./public");
+app.use(express.static(publicPath))
+
+const port = process.env.PORT || 3001
+
+app.listen(port, () => {
+    console.log("Corriendo puerto " + port)
 });
 
-var width = $(window).width(); 
+app.get("/", (req, res) => {
+    res.sendFile(path.join(__dirname, "./views/index.html"))
+})
 
-window.onscroll = function(){
-if ((width >= 900)){
-    if(document.body.scrollTop > 70 || document.documentElement.scrollTop > 70) {
-        $("#middle").css("background-size","70% auto");
-    }else{
-        $("#middle").css("background-size","60% auto");        
-    }
-}
-};
+app.get("/register", (req, res) => {
+    res.sendFile(path.join(__dirname, "./views/register.html"))
+})
 
-setTimeout(function(){
-    $("#loading").addClass("animated fadeOut");
-    setTimeout(function(){
-      $("#loading").removeClass("animated fadeOut");
-      $("#loading").css("display","none");
-    },800);
-},1450);
+app.get("/login", (req, res) => {
+    res.sendFile(path.join(__dirname, "./views/login.html"))
+})
+

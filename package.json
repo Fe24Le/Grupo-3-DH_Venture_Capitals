@@ -1,0 +1,33 @@
+{
+  "name": "grupo-3-dh_venture_capitals",
+  "version": "1.0.0",
+  "description": "proyecto grupal",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fe24Le/Grupo-3-DH_Venture_Capitals.git"
+  },
+  "keywords": [
+    "venture",
+    "capital",
+    "grupal"
+  ],
+  "author": "hector Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fe24Le/Grupo-3-DH_Venture_Capitals/issues"
+  },
+  "homepage": "https://github.com/Fe24Le/Grupo-3-DH_Venture_Capitals#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
