@@ -49,6 +49,11 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● https://www.ubisoft.com/es-es/
 
+
+
+ [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
+
+
 ### *DH_Integrantes* 
 
 -*Maximo Conde*  
