@@ -32,6 +32,8 @@ body,html {
     100% {transform: rotate(360deg);}
 }
 
+
+
 header {
     background-color: #333;
     color: red;
@@ -59,6 +61,47 @@ img {
   float: left;
 
 }
+/*.barra-busqueda {
+    border: none;
+    background-color: #ebebeb;
+    padding-right: 10px;
+}
+.busqueda {
+    background-color: #ebebeb;
+    height: fit-content;
+    display: flex;
+    border-radius: 5px;
+    padding: 12px 12px;
+    margin-right: 5px;
+    width:20%;
+}*/
+/*-----------------------*/
+.input-wrapper {
+  position: relative;
+  width: 271px;
+  display: flex;
+  overflow: auto;
+}
+
+.input {
+  box-sizing: border-box;
+  color: #191919;
+  padding: 15px 15px 15px 35px;
+  width: 100%;
+}
+
+
+.input-icon {
+  color: #191919;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/*------------------------*/
 .produto{
     padding:0px;
     margin:0px;
@@ -76,20 +119,28 @@ img {
     float: left;
 }
 
+#links{
+  border: white solid;
+  float: right;
+
+}
+
 nav ul {
     list-style: none;
-    padding: 0;
+    padding: 2px;
     margin: 0;
-
+    float: right;
     text-align:right;
-    border-color:red solid;
+ 
     font-family: 'Comfortaa', cursive; 
 }
 
 nav li {
     display: inline; /* Hace que los ítems del menú estén en una línea horizontal */
-    margin-right: 20px; /* Espacio entre los ítems del menú */
-
+    margin-right: 10px; /* Espacio entre los ítems del menú */
+    margin-left: 10px;
+    width: 90px;
+    border: white;
 }
 
 nav a {
@@ -150,6 +201,25 @@ nav a:hover {
 ::placeholder {
     color:#fff;
 }
+.produto__title{
+    font-size:20px;
+    font-family: 'Comfortaa', cursive;
+    font-weight:bold;
+    background:transparent;
+    transition:0.4s ease-in-out;
+    margin:0%;
+    padding: 0%;
+    color:white;
+    text-decoration: none; 
+
+}
+.produto__title:hover {
+    background:red;
+    cursor:pointer;
+    color:#000;
+}
+
+
 .btn_one {
     color:white;
     padding:10px 40px;
