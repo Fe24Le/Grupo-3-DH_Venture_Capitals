@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001
 
 app.listen(port, () => console.log(`Corriendo puerto ${port}`));
 
-/*app.use('/',(req,res) => {res.status(200).send('Api Funciona Correctamente')});*/
+app.use('/',(req,res) => {res.status(200).send('Api Funciona Correctamente')});
 
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "./views/index.html"))
